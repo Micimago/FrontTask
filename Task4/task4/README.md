@@ -1,3 +1,5 @@
+This project calculates the number of stops a ship needs to do depending on the distance.  Calculations take into consideration the availability of crew, the speed of the ship, and how long it can travel with the consumables available.  The data is loaded dynamically as the data is inputted.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
